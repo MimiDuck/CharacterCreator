@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<attribute>
+		<title>Strength</title>
+		<abb>STR</abb>
+		<type>Physical Power</type>
+		<affects>melee attack power and speed, carrying capacity, certain athletic actions</affects>
+	</attribute>
+	<attribute>
+		<title>Agility</title>
+		<abb>AGI</abb>
+		<type>Physical Finesse</type>
+		<affects>ranged attack accuracy, dodging, manual dexterity, actions requiring flexibility or speed, initiative rolls</affects>
+	</attribute>
+	<attribute>
+		<title>Stamina</title>
+		<abb>STA</abb>
+		<type>Physical Resilience</type>
+		<affects>Hit Points, toxin resistance, general health, healing speed, extended physical activity</affects>
+	</attribute>
+	<attribute>
+		<title>Presence</title>
+		<abb>PRE</abb>
+		<type>Social Power</type>
+		<affects>Impact in social interactions, inspiring others</affects>
+	</attribute>
+	<attribute>
+		<title>Manipulation</title>
+		<abb>MAN</abb>
+		<type>Social Finesse</type>
+		<affects>Guiding conversations, bluffing, persuasion, feinting in combat</affects>
+	</attribute>
+	<attribute>
+		<title>Composure</title>
+		<abb>COM</abb>
+		<type>Social Resilience</type>
+		<affects>Willpower, resistance to emotional effects / panic, avoiding distraction,  perception</affects>
+	</attribute>
+	<attribute>
+		<title>Intelligence</title>
+		<abb>INT</abb>
+		<type>Mental Power</type>
+		<affects>Problem solving, memory, learning capacity</affects>
+	</attribute>
+	<attribute>
+		<title>Wits</title>
+		<abb>WIT</abb>
+		<type>Mental Finesse</type>
+		<affects>Reaction time, improvisation, avoiding surprise, initiative rolls</affects>
+	</attribute>
+	<attribute>
+		<title>Resolve</title>
+		<abb>RES</abb>
+		<type>Mental Resilience</type>
+		<affects>Willpower, determination, mental resistance</affects>
+	</attribute>
+</document>
